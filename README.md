@@ -5,6 +5,7 @@ A simple control layout for Zalith Launcher 2
 This control layout is specifically designed for a **DPI of 600–612**. If your device uses a lower DPI, the text on the buttons may appear too large.
 
 **How to fix it:**
+
 To fix this, go to `Editor Menu` > `Control Appearance List` and adjust the `Text Size` under any of the available options in to your preference.
 
 ### ⚠️ Natrrator Triggerred
