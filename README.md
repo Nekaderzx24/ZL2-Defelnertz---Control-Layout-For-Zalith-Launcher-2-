@@ -1,5 +1,4 @@
 # ZL2 Defelnertz - Zalith Launcher 2 Control Layout
-A simple control layout for Zalith Launcher 2
 
 ### ⚠️ Important DPI Note:
 This control layout is specifically designed for a **DPI of 600–612**. If your device uses a lower DPI, the text on the buttons may appear too large.
